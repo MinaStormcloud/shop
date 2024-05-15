@@ -1,0 +1,44 @@
+.sidebar {
+    width: 200px;
+    height: 100%;
+    background-color:navy;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  
+  .menu-items {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  .menu-items li {
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .menu-items li:hover {
+    background-color:grey;
+  }
+
+   /* On screens that are less than 700px wide, make the sidebar into a topbar */
+   @media screen and (max-width: 700px) {
+    .sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+  }
+  
+  /* On screens that are less than 400px, display the bar vertically, instead of horizontally */
+  @media screen and (max-width: 400px) {
+    .sidebar a {
+      text-align: center;
+      float: none;
+    }
+  }
+  

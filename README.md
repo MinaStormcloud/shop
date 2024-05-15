@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Software Project Management: Utilization of Agile and Scrum Methodology
+  
+The goal of the project is to create a frontend project and showcase different software project management tools:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Agile
+- Scrum
+- UML-diagram
+  
+Basic Requirements:   
+- Decide what to do 
+- Create a plan 
+- Create a UML-Diagram 
+- Start project 
+- Divide it by part and who is responsible which part 
+- Daily Scrum Meetings 
+- Prepare Topics and discussing topics 
 
-## Available Scripts
+## Deadline: 16th of May
 
-In the project directory, you can run:
+# Agile Tasks
 
-### `npm start`
+1. Strategic Planning 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Portfolio Planning
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. Product Planning
 
-### `npm test`
+4. Iteration Planning
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. Daily Planning.
 
-### `npm run build`
+![alt text](https://assets-global.website-files.com/6514c506ba80b4a13f75decd/65b2bb7d1057069ea7e2130b_agile%20planning%20onion%2002.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Scrum Tasks
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Create a sprint planning
+2. Hold Daily Stand ups
+3. Carry out a sprint review
+4. Hold a sprint retrospective
+5. Backlog Refinement
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![alt text](https://bordio.com/wp-content/uploads/2022/02/The_5_Scrum_ceremonies.png)
