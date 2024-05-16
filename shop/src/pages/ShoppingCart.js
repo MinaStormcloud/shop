@@ -7,8 +7,6 @@ import { faGift, faCartShopping } from '@fortawesome/free-solid-svg-icons';
 export default function ShoppingCart() {
   return (
     <div>
-      
-
       <section className="container content-section" id="shopping-cart">
         <h3 style={{ textDecoration: 'underline', textAlign: 'center', marginBottom: '7%' }}>Shopping Cart</h3>
         <table className="table table-hover table-cart">
