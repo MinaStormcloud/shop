@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import profileImage from '../assets/images/heather-barnes.jpg';
 
-
-
 function ProfilePage() {
     const [profile, setProfile] = useState({
         name: 'Westside Belle Cakery',
